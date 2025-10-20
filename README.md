@@ -20,10 +20,9 @@
 
 <hr />
 
-<div style="display=flex; flex-direction=column">
+<div>
 	<img src="https://github-readme-stats.vercel.app/api?username=matheusleiner&theme=nord&hide_border=true&show_icons=true&custom_title=GitHub+Stats&include_all_commits=true&text_bold=false&number_format=short" width="50%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusleiner&layout=compact&theme=nord&hide_border=true&langs_count=10&stats_format=percentages&exclude_repo=hello-world&hide_progress=false" width="50%" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusleiner&layout=compact&theme=nord&hide_border=true&langs_count=10&stats_format=percentages&exclude_repo=hello-world&hide_progress=false" width="50%" />
 </div>
 
 <h2>
