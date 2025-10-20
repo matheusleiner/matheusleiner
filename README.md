@@ -3,27 +3,27 @@
 	Matheus Leiner
 </h1>
 <p>
-	FullStack Developer
+	FullStack Developer cursed with knowledge.
 </p>
 
 <h2>
 	Main Stack
 </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=arch,css,express,git,github,html,js,linux,mongodb,nextjs,nodejs,npm,obsidian,postman,raspberrypi,react,tailwind,ts,vim,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postman,linux,vim,vscode)](https://skillicons.dev)
 
 <h2>
 	I'm currently learning
 </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=bitbucket,blender,c,cpp,clion,coffeescript,discordjs,docker,electron,gitlab,godot,graphql,lua,mysql,nginx,postgres,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bitbucket,blender,bots,c,cpp,clion,coffeescript,discordjs,docker,electron,gitlab,godot,graphql,lua,mysql,nginx,postgres,regex)](https://skillicons.dev)
 
 <hr />
 
 <div style="display=flex; flex-direction=column">
-	<img src="https://github-readme-stats.vercel.app/api?username=matheusleiner&theme=chartreuse-dark&hide_border=true&show_icons=true&custom_title=GitHub+Stats&include_all_commits=true&text_bold=false&number_format=short" width="50%" />
+	<img src="https://github-readme-stats.vercel.app/api?username=matheusleiner&theme=nord&hide_border=true&show_icons=true&custom_title=GitHub+Stats&include_all_commits=true&text_bold=false&number_format=short" width="50%" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusleiner&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10&stats_format=percentages&exclude_repo=hello-world&hide_progress=false" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusleiner&layout=compact&theme=nord&hide_border=true&langs_count=10&stats_format=percentages&exclude_repo=hello-world&hide_progress=false" width="50%" />
 </div>
 
 <h2>
@@ -36,7 +36,8 @@
 	Social
 </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin)](https://linkedin.com/in/matheusleiner)
+<!-- [![My Skills](https://skillicons.dev/icons?i=gmail)](https://github.com/matheusleiner) -->
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/matheusleiner)
 
 <!-- <h1>Matheus Leiner</h1>
 <p>Full-Stack Developer</p>
