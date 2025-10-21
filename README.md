@@ -10,13 +10,13 @@
 	Main Stack
 </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=arch,html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postman,linux,vim,vscode)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=arch,linux,html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,vim,neovim,vscode" alt="Main stack icons" />
 
 <h2>
 	I'm currently learning
 </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=bitbucket,blender,bots,c,cpp,clion,coffeescript,discordjs,docker,electron,gitlab,godot,graphql,lua,mysql,nginx,postgres,regex)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=bitbucket,blender,bots,c,cpp,clion,coffeescript,discordjs,docker,electron,gitlab,godot,graphql,lua,mysql,nginx,postgres,regex" alt="Currently learning icons" />
 
 <hr />
 
@@ -29,14 +29,16 @@
 	Skills/Knowledge
 </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=arch,bash,cloudflare,css,debian,discord,express,git,github,html,js,linux,md,mint,mongodb,nextjs,nodejs,notion,npm,obsidian,postman,powershell,pycharm,py,raspberrypi,react,tailwind,ts,ubuntu,vim,vite,vscode,windows)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=arch,bash,cloudflare,css,debian,discord,express,git,github,html,js,linux,md,mint,mongodb,neovim,nextjs,nodejs,notion,npm,obsidian,postman,powershell,py,raspberrypi,react,tailwind,ts,ubuntu,vim,vite,vscode,windows&perline=11" alt="Skills/Knowledge icons" />
 
 <h2>
 	Social
 </h2>
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=gmail)](https://github.com/matheusleiner) -->
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/matheusleiner)
+<a href="https://linkedin.com/in/matheusleiner">
+	<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn icon" />
+</a>
 
 <!-- <h1>Matheus Leiner</h1>
 <p>Full-Stack Developer</p>
