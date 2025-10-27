@@ -13,15 +13,15 @@
 <img src="https://skillicons.dev/icons?i=arch,linux,html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,vim,neovim,vscode" alt="Main stack icons" />
 
 <h2>
-	I'm currently learning
+	I'm currently studying
 </h2>
 
-<img src="https://skillicons.dev/icons?i=bitbucket,blender,bots,c,cpp,clion,coffeescript,discordjs,docker,electron,gitlab,godot,graphql,lua,mysql,nginx,postgres,regex" alt="Currently learning icons" />
+<img src="https://skillicons.dev/icons?i=bash,bitbucket,blender,bots,c,cpp,discordjs,docker,electron,gitlab,godot,graphql,lua,mysql,nginx,postgres,regex" alt="Currently learning icons" />
 
 <hr />
 
 <div>
-	<img src="https://github-readme-stats.vercel.app/api?username=matheusleiner&theme=nord&hide_border=true&show_icons=true&custom_title=GitHub+Stats&include_all_commits=true&text_bold=false&number_format=short" width="50%" />
+	<img src="https://github-readme-stats.vercel.app/api?username=matheusleiner&theme=nord&hide_border=true&show_icons=true&custom_title=GitHub+Stats&include_all_commits=true&text_bold=true&number_format=short" width="50%" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusleiner&layout=compact&theme=nord&hide_border=true&langs_count=10&stats_format=percentages&exclude_repo=hello-world&hide_progress=false" width="50%" />
 </div>
 
@@ -29,7 +29,7 @@
 	Skills/Knowledge
 </h2>
 
-<img src="https://skillicons.dev/icons?i=arch,bash,cloudflare,css,debian,discord,express,git,github,html,js,linux,md,mint,mongodb,neovim,nextjs,nodejs,notion,npm,obsidian,postman,powershell,py,raspberrypi,react,tailwind,ts,ubuntu,vim,vite,vscode,windows&perline=11" alt="Skills/Knowledge icons" />
+<img src="https://skillicons.dev/icons?i=arch,cloudflare,coffeescript,css,debian,discord,express,git,github,html,js,linux,md,mint,mongodb,neovim,nextjs,nodejs,notion,npm,obsidian,postman,powershell,py,raspberrypi,react,tailwind,ts,ubuntu,vim,vite,vscode,windows&perline=11" alt="Skills/Knowledge icons" />
 
 <h2>
 	Social
