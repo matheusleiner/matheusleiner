@@ -16,7 +16,7 @@
 	I'm currently studying
 </h2>
 
-<img src="https://skillicons.dev/icons?i=bash,bitbucket,blender,bots,c,cpp,discordjs,docker,electron,gitlab,godot,graphql,lua,mysql,nginx,postgres,regex" alt="Currently learning icons" />
+<img src="https://skillicons.dev/icons?i=bash,bitbucket,blender,bots,bun,c,cassandra,cpp,discordjs,docker,electron,gitlab,godot,graphql,java,lua,mysql,nginx,php,pnpm,postgres,prisma,redis,regex" alt="Currently learning icons" />
 
 <hr />
 
