@@ -16,7 +16,7 @@
 	I'm currently studying
 </h2>
 
-<img src="https://skillicons.dev/icons?i=bash,bitbucket,blender,bots,bun,c,cassandra,cpp,discordjs,docker,electron,gitlab,godot,graphql,java,lua,mysql,nginx,php,pnpm,postgres,prisma,redis,regex" alt="Currently learning icons" />
+<img src="https://skillicons.dev/icons?i=bash,bitbucket,blender,bots,bun,c,cassandra,cpp,discordjs,docker,electron,gitlab,godot,graphql,java,lua,nginx,php,postgres,redis,regex" alt="Currently learning icons" />
 
 <hr />
 
@@ -29,7 +29,7 @@
 	Skills/Knowledge
 </h2>
 
-<img src="https://skillicons.dev/icons?i=arch,cloudflare,coffeescript,css,debian,discord,express,git,github,html,js,linux,md,mint,mongodb,neovim,nextjs,nodejs,notion,npm,obsidian,postman,powershell,py,raspberrypi,react,tailwind,ts,ubuntu,vim,vite,vscode,windows&perline=11" alt="Skills/Knowledge icons" />
+<img src="https://skillicons.dev/icons?i=arch,cloudflare,coffeescript,css,debian,discord,express,git,github,html,js,linux,md,mint,mongodb,mysql,neovim,nextjs,nodejs,notion,npm,obsidian,postman,powershell,pnpm,prisma,py,raspberrypi,react,tailwind,ts,ubuntu,vim,vite,vscode,windows&perline=12" alt="Skills/Knowledge icons" />
 
 <h2>
 	Social
