@@ -4,8 +4,8 @@
 
 ## <samp>Main Stack</samp>
 
-<img src="https://skillicons.dev/icons?i=arch,html,css,js,ts,nextjs,nodejs,express,prisma,pnpm,docker" alt="Main Stack icons" />
+[![Main Stack Icons](https://skillicons.dev/icons?i=arch,html,css,js,ts,nextjs,nodejs,express,prisma,pnpm,docker)](https://skillicons.dev)
 
 ## <samp>Exploring/Learning</samp>
 
-<img src="https://skillicons.dev/icons?i=bash,blender,bots,bun,c,cassandra,cpp,discordjs,dynamodb,electron,godot,graphql,java,laravel,lua,nest,nuxt,php,postgres,redis,supabase,vue&perline=11" alt="Exploring/Learning icons" />
+[![Exploring/Learning Icons](https://skillicons.dev/icons?i=bash,blender,bots,bun,c,cassandra,cpp,discordjs,dynamodb,electron,godot,graphql,java,laravel,lua,nest,nuxt,php,postgres,redis,supabase,vue&perline=11)](https://skillicons.dev)
